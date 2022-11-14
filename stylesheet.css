@@ -83,7 +83,7 @@ img {
         font-size: 2rem;
     }
     p {
-        font-size: 75%;
+        font-size: 80%;
     }
     img {
         width: 100%;
@@ -92,10 +92,10 @@ img {
 
 @media only screen and (max-width: 550px) {
     h1 {
-        font-size: 1.5rem; 
+        font-size: 1.4rem; 
     }
     p {
-        font-size: 60%;
+        font-size: 70%;
     }
 }
 
